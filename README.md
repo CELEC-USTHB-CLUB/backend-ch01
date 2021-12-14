@@ -8,7 +8,4 @@ https://docs.google.com/document/d/1BpsLUoFNq9rgx6zMALh8ykW2Oq-W5IBgKtiIv-NFInk/
 # Configuration
 Change Database: name, host, port, username, password [here](https://github.com/CELEC-USTHB-CLUB/backend-ch01/blob/main/src/Form.php#L9)
 # Video
-
-
-https://user-images.githubusercontent.com/16167585/146060324-d5ef8bbf-9ecb-4d29-90cb-2676df58262e.mp4
-
+https://drive.google.com/file/d/1Dy4RbGXb3FF-CXXkH6q0D6xIpyvqu28y/view?usp=sharing
